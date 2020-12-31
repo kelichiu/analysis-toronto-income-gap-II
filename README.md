@@ -22,7 +22,7 @@ of inequality in income and education existing in the City of Toronto.
 ## Data: City of Toronto Neighbourhood Profiles
 City of Toronto Neighbourhood Profiles data set is sourced from several Census tables released by Statistics Canada every five years. The dataset uses this Census data to provide a portrait of the demographic, social and economic characteristics of the people and households in each City of Toronto neighbourhood. Each data point in this file is presented for the City's 140 neighbourhoods, as well as for the City of Toronto as a whole. The data set consists of 144 columns for neighbourhoods and 1537 rows for characteristics of the neighbourhoods. Data cleaning and reshaping are performed to have a new data frame that has 14 characteristics regarding topics of income as columns and education and the 140 neighbourhoods as rows.
 
-### See the [PDF file](toronto_income_gap_II.pdf) for data visualization and full analysis
+### See the [PDF file](toronto_income_gap_II.pdf) for R code, data visualization and full analysis
 
 
 
