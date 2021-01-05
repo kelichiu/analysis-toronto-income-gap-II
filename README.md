@@ -1,5 +1,5 @@
 # Higher Income Neighbourhood Have Higher Percentage Population Majoring in Specific Majors
-In collaboration with [diegoarmaca](https://github.com/diegoarmaca)
+In collaboration with [Diego Mamanche Castellanos](https://github.com/diegoarmaca)
 
 ## Summary of Findings
 Education is a contributor to many beneficial socio-economic outcomes. We intend to exam the 
